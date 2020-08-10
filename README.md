@@ -1,0 +1,2 @@
+# xbz_Postgresql
+用于记录个人学习postgresql的相关历程，将postgresql学习基础认知进行相关沉淀。
