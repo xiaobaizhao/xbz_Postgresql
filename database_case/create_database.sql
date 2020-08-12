@@ -1,4 +1,6 @@
---模拟一：
---在postgres用户下创建名为test的数据库
---psql -U postgres
-CREATE DATABASE  test;
+--创建数据库
+--demo001、使用SQL语句创建名为test001的数据库。
+CREATE DATABASE  test001;
+
+
+
