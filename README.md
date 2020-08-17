@@ -4,13 +4,16 @@
 ## postgreSQL 环境搭建
 
 ## postgreSQL基础学习
+- [数据库的操作][1]
+- 数据类型讲解
 - 数据库的操作及模拟案例
 - 数据字段的类型统计与常见使用方法
-- 数据表的操作及模拟案例
+- [数据表的操作][3]
+- [数据的基本操作][4]
 - 操作数据表的语法及模拟案例
 
 ## postgreSQL高级学习
-- postgreSQL  **约束** 
+- postgreSQL  [**约束**][2]
 - postgreSQL  **触发器**
 - postgreSQL  **索引**
 - postgreSQL  **视图**  
@@ -21,6 +24,20 @@
 - postgreSQL  **常用函数**
 
 ## postgreSQL 命令行操作  
-- 语法
+- 
 
-    
+## postgreSQL 快捷键
+- \l ： 用于查看已经存在的数据库
+- \c dbname : 进入对应的数据库(dbname)中
+- \d ：用于查看数据表是否存在
+- \d tablename ：用于查看数据表的表结构信息
+- \q ：退出当前数据命令窗口
+
+
+
+
+
+[1]: https://github.com/xiaobaizhao/xbz_Postgresql/blob/master/postgresql_database.md "数据库的操作" 
+[2]: https://www.com.cn "约束"
+[3]: https://github.com/xiaobaizhao/xbz_Postgresql/blob/master/postgreSQL_tables.md "数据表的操作"
+[4]: http://www.com.cn "数据的操作"
