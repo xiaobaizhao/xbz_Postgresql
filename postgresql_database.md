@@ -221,5 +221,5 @@ postgres=# \l
 ```
 
 **参考链接：**  
-https://www.runoob.com/postgresql/postgresql-drop-database.html
-<font color=>文档内容仅用于学习使用。如有侵权，请及时联系QQ群：647934871</font>
+https://www.runoob.com/postgresql/postgresql-drop-database.html  
+<font color=gray>文档内容仅用于学习使用。如有侵权，请及时联系QQ群：647934871</font>
