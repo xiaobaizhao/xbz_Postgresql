@@ -9,7 +9,7 @@
 - postgresql **增加数据表字段**
 - postgersql **删除数据表字段**
 - postgresql **变更数据表字段的数据类型**
-- postgresql **数据表字段的约束**   <font color=yellow>待完成</font>
+- postgresql [**数据表字段的约束**][2]
 
 ## 创建表格 (create table)
 **create table SQL语法**
@@ -102,20 +102,16 @@ alter table demo alter column tel type char(20);
 </font>
 
 ## 数据表字段的约束
+详见postgreSQL [约束][2]
 
 
+**参考链接**
 
-
-
-
-
-
-
-
-
+<font color=gray>文档内容仅用于学习使用。如有侵权，请及时联系QQ群：647934871</font>
 
 
 
 
 
 [1]: http://数据类型文档待补全 "数据类型" 
+[2]: https://github.com/xiaobaizhao/xbz_Postgresql/blob/master/postgreSQL_constraint.md "数据表约束"

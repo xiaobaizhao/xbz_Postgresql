@@ -361,5 +361,7 @@ alter table department add constraint  department_emp_id_FK foreign key (EMP_ID)
 案例：
 
 
-参考：
+**参考链接：**  
 https://www.jianshu.com/p/c2b1d5394214  postgreSQL外键约束详解
+
+<font color=gray>文档内容仅用于学习使用。如有侵权，请及时联系QQ群：647934871</font>
