@@ -11,6 +11,9 @@
 - postgresql **变更数据表字段的数据类型**
 - postgresql [**数据表字段的约束**][2]
 
+模拟案例：
+- postgresql [数据表操作案例][3]
+
 ## 创建表格 (create table)
 **create table SQL语法**
 ```
@@ -115,3 +118,4 @@ alter table demo alter column tel type char(20);
 
 [1]: http://数据类型文档待补全 "数据类型" 
 [2]: https://github.com/xiaobaizhao/xbz_Postgresql/blob/master/postgreSQL_constraint.md "数据表约束"
+[3]: https://github.com/xiaobaizhao/xbz_Postgresql/blob/master/database_case/case_tables.sql "数据表模拟"
