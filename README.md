@@ -1,7 +1,10 @@
 # xbz_Postgresql
 用于记录个人学习postgresql的相关历程，将postgresql学习基础认知进行相关沉淀。
 # postgreSQL 学习目录架构
-## postgreSQL 环境搭建
+## postgreSQL 服务管理
+- 数据库环境搭建
+- 数据库主从配置
+- 数据库备份策略 
 
 ## postgreSQL基础学习
 - [数据库的操作][1]
@@ -23,6 +26,7 @@
 - postgreSQL  **权限**
 - postgreSQL  **常用函数**
 
+
 ## postgreSQL 命令行操作  
 - 
 
@@ -32,6 +36,7 @@
 - \d ：用于查看数据表是否存在
 - \d tablename ：用于查看数据表的表结构信息
 - \q ：退出当前数据命令窗口
+- \di: 列出数据库的所有索引
 
 
 
@@ -40,4 +45,4 @@
 [1]: https://github.com/xiaobaizhao/xbz_Postgresql/blob/master/postgresql_database.md "数据库的操作" 
 [2]: https://www.com.cn "约束"
 [3]: https://github.com/xiaobaizhao/xbz_Postgresql/blob/master/postgreSQL_tables.md "数据表的操作"
-[4]: http://www.com.cn "数据的操作"
+[4]: https://github.com/xiaobaizhao/xbz_Postgresql/blob/master/postgreSQL_data.md "数据的操作"

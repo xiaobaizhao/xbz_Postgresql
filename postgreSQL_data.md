@@ -257,4 +257,4 @@ select DISTINCT  name ,age ,id,salary from demo;
 <font color=gray>文档内容仅用于学习使用。如有侵权，请及时联系QQ群：647934871</font>
 
 
-[1]: http://www.com.cn "数据操作案例"
+[1]: https://github.com/xiaobaizhao/xbz_Postgresql/blob/master/database_case/case_data.sql "数据操作案例"
